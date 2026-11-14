@@ -123,7 +123,7 @@ export default {
       "Headband 🎧",
       "Jillybean 🫘",
       "Larry OG 🌿",
-      "Lemonoder 🍋",
+      "Lemon Oder 🍋",
       "Mango Kush 🥭",
       "Mendo Purps 🍇",
       "Middlefork 🌲",
