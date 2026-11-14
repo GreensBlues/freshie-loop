@@ -322,11 +322,11 @@ export default {
         : "";
 
     const message =
-      ${rarity} | You packed ${strain} (${thc}% THC) into a ${device}.${kief};
+      `${rarity} | You packed ${strain} (${thc}% THC) into a ${device}.${kief}`;
 
     if (Math.random() < 0.05) {
       return new Response(
-        ${message} ${pick(chaosEvents)},
+        `${message} ${pick(chaosEvents)}`,
         {
           headers: {
             "content-type": "text/plain; charset=UTF-8"
